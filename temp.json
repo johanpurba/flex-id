@@ -1,0 +1,198 @@
+{
+    "CHAT": {
+        "list[1]": "",
+        "status": false
+    },
+    "Respontag": "yes, im here..",
+    "Respontag2": "Orang yg gk ada !",
+    "access_key": "0066725464abd96d2cee00863ad9067f",
+    "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
+    "addContact": {
+        "name": "",
+        "status": false
+    },
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "addStickers": {
+        "name": "",
+        "status": false
+    },
+    "admin": [
+        "u3fecdec16ff63d333bd354998c5c1345"
+    ],
+    "ani_guess": [
+        "c9a9f741633543d70449a7d9801cbbd28"
+    ],
+    "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
+    "autoAdd": true,
+    "autoBlock": false,
+    "autoJoin": true,
+    "autoJoinTicket": false,
+    "autoLeave": false,
+    "autoLike": false,
+    "autoRead": false,
+    "autoRead1": false,
+    "autoReject": false,
+    "autoReply": false,
+    "autoRestart": false,
+    "autopurge": true,
+    "botMute": [],
+    "botOff": [],
+    "changeCover": false,
+    "changeGroupPicture": [],
+    "changePicture": false,
+    "changeProfileCover": "tmp/cover.bin",
+    "changeProfileVideo": {
+        "picture": "tmp/pict.bin",
+        "stage": 2,
+        "status": false,
+        "video": "/tmp/linepy-1574003979-6.bin"
+    },
+    "changeVideo": false,
+    "chatbot": {
+        "": false
+    },
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "commentPost": "Autolike by : รัตน์",
+    "content": {
+        "sam": [
+            "u2cf74acf6ed04d122def4db8ffdd2e39",
+            "u2cf74acf6ed04d122def4db8ffdd2e39",
+            "u2cf74acf6ed04d122def4db8ffdd2e39"
+        ],
+        "status": true
+    },
+    "detectMention": false,
+    "fancy": {
+        "foto1": [],
+        "foto2": [],
+        "foto3": [],
+        "status": false
+    },
+    "getReader": {
+        "c8c2fc7afca5f49e6853e435ff8d6bb9b": [],
+        "cbc764c6baa05042517c76273cc39f567": [
+            "u8009af74c79fdb87a3958c336faf41c6",
+            "u8e367a3e140660c00e58113d6e9aeab0"
+        ],
+        "cd4bf68eb54dd57ff527d5b64dd76243a": [
+            "u3fecdec16ff63d333bd354998c5c1345",
+            "u5ccf90cc8789ed7cb099e05e3d7f7fcb",
+            "u1085bba49ef979db321c145e04ca0a83",
+            "uf1cdd908a879c931f887db16f6b1df07",
+            "u8a37b43bd40a3c1664a1e8ac404b4702",
+            "u099aa88415936c79bb3c65ec00d41af5",
+            "u7210ed37fc5047effaf026d2e47c6577",
+            "u0fc54c7d46c5ec509036a39d547b1aff",
+            "ue6fd108de7b1cd9224977b8d3e4b0cd1",
+            "u1f827d98596578dde9491541b4b6f8ba"
+        ],
+        "ce2aee87c8e807020288c92ea8dcfb740": [
+            "u064e445fdcc40853e2a5fc72a446c82b",
+            "u721e73da3635ca75d4196f16855e8a82"
+        ]
+    },
+    "keluar": false,
+    "keyCommand": "khie ",
+    "leave": "nah kan kk kabur baper ya🤣🤣🤣selamat jln kk⛄⛄ hati\"di jln moga bahagia di luar sana🌷🌷🌷🌷🌷",
+    "leaveMessage": false,
+    "leavePesan": "Halo @!, kenapa leave dari grup {gname}??",
+    "limit": 3,
+    "mention": "Nyimak",
+    "mentionPesan": "Asw lo @!, Ngapain tag\" gw 􀜅􀄃hmm􏿿",
+    "messageBlock": "Hai @!\nThanks for adding me..\nAuto Block Active, Klo penting komen di tl aja dulu..",
+    "messageSticker": {
+        "addName": null,
+        "addStatus": false,
+        "listSticker": {
+            "addSticker": {
+                "STKID": "55737927",
+                "STKPKGID": "11631",
+                "STKVER": "6",
+                "status": true
+            },
+            "leaveSticker": null,
+            "mentionSticker": {
+                "STKID": "11979804",
+                "STKPKGID": "1295985",
+                "STKVER": "1"
+            },
+            "readerSticker": {
+                "STKID": "16846765",
+                "STKPKGID": "8543",
+                "STKVER": "7",
+                "status": true
+            },
+            "replySticker": null,
+            "welcomeSticker": null
+        }
+    },
+    "mimic": {
+        "copy": false,
+        "status": true,
+        "target": {
+            "udb68a574c2dd49530fd9affdcead6856": true
+        }
+    },
+    "myProfile": {
+        "coverId": "711e89750e1b419e97f8847bc252a154",
+        "coverStatus": "",
+        "displayName": "รัตน์",
+        "pictureStatus": "0hBSPVwmPMHXxtLzcSU3NiK1FqExEaARs0FUpVHR8uFkxDH1p9WUhWSUt9E05JGFspVBxaT017Q0tE",
+        "statusMessage": "👉บริการให้เช่า เซิฟเวอร์ VPS JAPAN👉(ญี่ปุ่น)\n👉ราคาถูก รันเชลบอทสบายๆ\n👉ราคาตามนี้นะครับ\nSSD 20 GB\nRam 512 MB\nCPU 1\nราคา 250 THB/เดือน\n👉ประกันตลอดการใช้งาน\n👏👏👏👏👏👏👏\n\nSSD 25 GB\nRam 1 GB\nCPU 1\nราคา 400 THB/เดือน\n👉ประกันตลอดการใช้งาน\n👏👏👏👏👏👏👏\n\nSSD 40 GB\nRam 2 GB\nCPU 1\nราคา 700 THB/เดือน\n👉ประกันตลอดการใช้งาน\n👏👏👏👏👏👏👏\n\nSSD 60 GB\nRam 4 GB\nCPU 2\nราคา 1000 THB/เดือน\n👉ประกันตลอดการใช้งาน\n👏👏👏👏👏👏👏\n\nSSD 100 GB\nRam 8 GB\nCPU 4 \nราคา 1500 THB/เดือน\n👉ประกันตลอดการใช้งาน\n🎈🎃VPS FULL SPEED 0.008-0.02\nหาสนใจหรือยากจะสอบถามติดต่อได้เลย",
+        "videoProfile": "{\"category\":\"vp.mp4\",\"extension\":\"jpeg\",\"animated\":false,\"width\":1080,\"height\":1080,\"fileSize\":272586,\"tids\":{\"mp4\":\"vp.small\",\"sjpg\":\"vp.sjpg\"}}"
+    },
+    "notag": false,
+    "pesanAdd": "Hai @!\nThanks for adding me..\n\n------------ Auto Add ------------",
+    "protectGroupName": false,
+    "protectGroupQr": false,
+    "public": false,
+    "qrprotect": false,
+    "readerPesan": "   ",
+    "replyPesan": "Maap yang bales bot. Karena orangnya sedang tidur, mungkin dibales nanti pagi. Makasih :)\n\nJangan lupa follow instagram gw\nwww.instagram.com/rushkii_",
+    "resendChat": false,
+    "responGc": false,
+    "restartBot": null,
+    "restartPoint": null,
+    "sambutan": false,
+    "server": "VPS",
+    "setKey": false,
+    "stealtag": false,
+    "tagallmember": "salken",
+    "timeRestart": 43200,
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "unsendMessage": false,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "userMentioned": {},
+    "waktu": 10,
+    "welcome": "Selamat datang dan selamat bergabung. Jgn lupa cek note ya "
+}
